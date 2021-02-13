@@ -27,3 +27,10 @@ A beginner front-end developer, energetic, driven by results, who wants to devel
 Made a [landing page](https://github.com/AntonyCoder/Anna-green) and another simple web-sites.
 
 ---
+## ***Education***
+* Bachelor’s degree in progress sinse 2017 — Saint-Petersburg Mining University, Faculty of Energy, specialty heat power engineering.
+---
+## ***Additional Information***
+* Russian — native
+* English — pre-intermidiate
+---
