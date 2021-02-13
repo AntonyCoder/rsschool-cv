@@ -15,3 +15,15 @@
 A beginner front-end developer, energetic, driven by results, who wants to develop in development and gain new knowledge, a great desire to gain experience and useful skills from older comrades.
 
 ---
+## ***Skills***
+* HTML
+* CSS
+* Sass
+* JS
+* Git
+* Experience in graphic editors (*Photoshop*, *Figma*, *AutoCad*)
+---
+## ***Work experience***
+Made a [landing page](https://github.com/AntonyCoder/Anna-green) and another simple web-sites.
+
+---
