@@ -11,3 +11,7 @@
 **VK** — [Anton Lysenko](https://vk.com/id_antonlysenko)
 
 ---
+## ***Personal information***
+A beginner front-end developer, energetic, driven by results, who wants to develop in development and gain new knowledge, a great desire to gain experience and useful skills from older comrades.
+
+---
