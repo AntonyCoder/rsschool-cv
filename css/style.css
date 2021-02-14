@@ -45,7 +45,31 @@ a{
 .contact-list__item{
   margin-bottom: 10px;
 }
+.line-left{
+  width: 90%;
+  background-color: #fff;
+}
+.line-right{
+  width: 90%;
+  background-color: rgb(25, 43, 162);
+}
+.skills__title{
+  text-align: center;
+  font-style: italic;
+}
 .right-side {
   width: 65%;
   background-color: #fff;
+  color:rgb(25, 43, 162);
+}
+.section-link{
+  color: rgb(25, 43, 162);
+  text-decoration: underline;
+}
+.section__title{
+  margin-left: 25px;
+}
+.section__text{
+  width: 90%;
+  margin: auto;
 }
