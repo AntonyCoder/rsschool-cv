@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif, serif;
+  background-color: rgb(116, 169, 235);
+  color: aliceblue;
+}
+.main {
+  margin: 50px 350px;
+}
