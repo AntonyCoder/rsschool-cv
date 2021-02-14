@@ -4,8 +4,48 @@
 body {
   font-family: sans-serif, serif;
   background-color: rgb(116, 169, 235);
-  color: aliceblue;
+  color: rgb(255, 255, 255);
+}
+a{
+  text-decoration: none;
+  color: #fff;
 }
 .main {
   margin: 50px 350px;
+  display: flex;
+}
+.left-side {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  background-color: rgb(25, 43, 162);
+}
+.main-image {
+  width: 100%;
+}
+.contact__name,
+.contact__description{
+  text-align: center;
+  margin: 15px auto;
+}
+.contact-list{
+  display: flex;
+  font-size: 14px;
+  margin: 15px;
+}
+.contact-list__name{
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+.contact-list__text{
+  display: flex;
+  flex-direction: column;
+}
+.contact-list__item{
+  margin-bottom: 10px;
+}
+.right-side {
+  width: 65%;
+  background-color: #fff;
 }
