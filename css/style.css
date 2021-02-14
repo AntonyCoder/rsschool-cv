@@ -56,8 +56,12 @@ a{
 .skills__title{
   text-align: center;
   font-style: italic;
+  margin: 10px auto;
 }
 .right-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   width: 65%;
   background-color: #fff;
   color:rgb(25, 43, 162);
@@ -68,8 +72,12 @@ a{
 }
 .section__title{
   margin-left: 25px;
+  font-style: italic;
 }
 .section__text{
   width: 90%;
   margin: auto;
+}
+.list__item{
+  width: 90%;
 }
